@@ -1,3 +1,3 @@
 # personajes_app
 
-A new Flutter project.
+app de practica, se muestra una lista de personajes de OnePiece
